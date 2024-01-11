@@ -1,0 +1,12 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/LoanLibrary
+/LoanLibrary.API/bin/Debug/net8.0
+/LoanLibrary.API/obj
+/LoanLibrary.Application/obj
+/LoanLibrary.Entities/bin/Debug/net8.0
+/LoanLibrary.Entities/obj
+/LoanLibrary.Repository/bin/Debug/net8.0
+/LoanLibrary.Repository/obj
